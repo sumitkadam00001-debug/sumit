@@ -1,3 +1,3 @@
 welcome to git bash 
 
-zeal polytechnic pune
+zeal education polytechnic pune
