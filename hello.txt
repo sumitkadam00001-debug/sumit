@@ -1,2 +1,2 @@
-hello git
-welcome
+welcome to gitbash
+welcome to zeal
