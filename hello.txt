@@ -1,8 +1,3 @@
-<<<<<<< HEAD
+HEAD
 welcome to git
-
 zeal education polytechnic pune
-=======
-welcome to gitbash 2.0
-polytechnic pune
->>>>>>> feature-1
